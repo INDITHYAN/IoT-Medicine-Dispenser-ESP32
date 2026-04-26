@@ -42,11 +42,8 @@ API keys and tokens have been removed for safety. Replace them with your own cre
 - Developed hand detection logic
 - Contributed to system logic and debugging
 
-## 📂 Code Structure
-- `main.ino` → Main program
 
-## 📸 Output
-(Add images/videos here)
+
 
 ## 🔮 Future Improvements
 - Mobile app integration
